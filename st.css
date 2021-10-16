@@ -1,0 +1,153 @@
+body{
+	background-color: #dbdade;
+}
+
+.logo{
+	margin-left: 60px;
+	font-family:monospace;
+	font-style:initial;
+	font-size: 23px;
+	color: #ff7716;
+	font-weight: bold;
+}
+.logo-img{
+	height: 50px;
+	width: 50px;
+	margin-top: 0px;
+	margin-bottom: -9px;
+}
+ul{
+overflow:hidden;
+}
+li{
+display:inline-block;
+}
+
+.profile-lnk-1{
+	margin-left: 470px;
+	font-family: monospace;
+	color: #8907c9;
+	font-size: 19px;
+}
+
+.gd-img{
+	height: 30px;
+	width: 30px;
+	margin-top: 0px;
+	margin-bottom: -9px;
+}
+
+.profile-lnk-2{
+	font-family: monospace;
+	color: #8907c9;
+	font-size: 19px;
+
+}
+.profile-lnk-3{
+	font-family: monospace;
+	color: #8907c9;
+	font-size: 19px;
+
+}
+.white-box-1{
+	background-color: white;
+	width: 55%;
+	height: 400px;
+	margin-left: 70px;
+	margin-top: 50px;
+	box-shadow: 5px 10px #888888;
+
+}
+
+
+.white-box-2{
+	background-color: white;
+	width: 55%;
+	height: 400px;
+	margin-left: 610px;
+	margin-top: 50px;
+	box-shadow: 5px 10px #888888;
+}
+
+.white-box-3{
+	background-color: white;
+	width: 55%;
+	height: 400px;
+	margin-left: 70px;
+	margin-top: 50px;
+	box-shadow: 5px 10px #888888;
+}
+
+
+.white-box-4{
+	background-color: white;
+	width: 55%;
+	height: 400px;
+	margin-left: 610px;
+	margin-top: 50px;
+	box-shadow: 5px 10px #888888;
+}
+
+.hd-PI{
+	font-size: 30px;
+	text-align: center;
+	font-family:monospace;
+	color: #8907c9;
+	font-weight: bold;
+	height: 7px;
+	letter-spacing: 3px;
+	text-shadow: 2px 1px #000, -1px 1px #000, -1px -1px #000, 1px -1px #000;
+}
+
+.p-img{
+	height: 320px;
+	width: 190px;
+	margin-left: 40px;
+	margin-top: 20px;
+	border-radius: 150px;
+}
+
+
+.e-img{
+	height: 320px;
+	width: 180px;
+	margin-left: 40px;
+	margin-top: 25px;
+}
+
+table, th, td {
+  border:1px solid black;
+  width: 50px;
+}
+
+.ed-tbl{
+	margin-left: 250px;
+	margin-top: -300px;
+	margin-right: 10px;
+}
+
+.cp{
+	margin-left: 70px;
+}
+
+.s-img{
+	height: 55px;
+	width: 55px;
+}
+.sk-img-design{
+	margin-left: 120px;
+}
+.sk{
+	margin-left: 100px;
+	margin-top: -50px;
+	font-size: 25px; 
+}
+.desc-mini{
+	margin-left: 105px;
+	margin-top: -45px;
+}
+.p-details{
+	margin-left: 260px;
+	margin-top: -300px;
+	font-size: 18px;
+}
